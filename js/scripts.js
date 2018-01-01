@@ -1,3 +1,7 @@
+$('a').mouseover(function(){
+  $('span:first-child').hide();
+});
+
 var navigate = (function() {
 	$('.dd').toggle();
 	$('.dd_btn').click(function() {
