@@ -6,6 +6,8 @@ body {
   background-size: 100%;
 }
 
+@import url(https://fonts.googleapis.com/css?family=Lato:700);
+
 $color: #2ecc71;
 
 html {
