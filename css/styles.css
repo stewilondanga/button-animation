@@ -47,6 +47,19 @@ a {
 
   }
 
+  &:hover {
+    background: $color;
+    width: 60px;
+    border-radius: 50%;
+
+    .icon {
+      color: #fff;
+      transform: translate(-16px,-110px);
+    }
+
+  }
+}
+
     h1 {
     	font-family: helvetica;
     	font-weight: normal;
