@@ -6,6 +6,8 @@ body {
   background-size: 100%;
 }
 
+$color: #2ecc71;
+
 
     h1 {
     	font-family: helvetica;
